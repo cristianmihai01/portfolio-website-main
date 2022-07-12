@@ -12,7 +12,7 @@ const About = () => {
                 <div className="flex flex-col items-center text-center lg:ietms-start lg:text-left">
                   <div className="flex flex-col">
                     <h2 className='text-3xl lg:text-4x1 font-medium lg:font-extrabold mb-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:'>
-                      amirsadeh
+                      amirsadehs
                     </h2>
                   </div>
                 </div>
